@@ -1,7 +1,16 @@
 .App {
   text-align: center;
+  
 }
-
+.header{
+  background-image: url('./background.jpg');
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+  border-image-width: 100%;
+  
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
